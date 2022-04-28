@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution here](https://github.com/brobert04/3ColumnPreviewCard)
+- Solution URL: [Solution here](https://github.com/brobert04/statsPreviewFrontEndMentor)
 - Live Site URL: [Live Site URL here](https://brobert04.github.io/3ColumnPreviewCard/)
 
 ## My process
